@@ -1,8 +1,8 @@
-![https://telegra.ph/file/4f9ca15015f0b60eb3b08.jpg](https://telegra.ph/file/283499c33bb1f7970fae1.jpg)
+![https://telegra.ph/file/4f9ca15015f0b60eb3b08.jpg](https://telegra.ph/file/4f9ca15015f0b60eb3b08.jpg)
 
 
 </p>
-<h1 align="center">ArullOfc</h1>
+<h1 align="center">IkmalOfc</h1>
 
 >
 >
@@ -43,7 +43,7 @@
 
 WhatsApp Bot Multi Device
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/krizynofc/krizynMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IkmalMtp2/krizynMD)
 
 
 # Heroku Buildpack
