@@ -3,49 +3,49 @@
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
 // RECODE BY RIEL OFC
-// RECODE BACK BY ARULL OFC
+// RECODE BACK BY IKMAL
 
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
-global.mods = ['6285822347348'] 
-global.prems = ['6285822347348'] 
+global.owner = ['6282127081926'] 
+global.mods = ['6282127081926'] 
+global.prems = ['6282127081926'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc ✰'
-global.numberowner = '6285822347348'
-global.instagram = 'https://instagram.com/sahrulwara_____'
-global.github = 'https://github.com/warikrr'
-global.dana = '085822347348'
-global.pulsa = '085822347348'
-global.gopay = ''
+global.nameowner = 'Ikmal ✰'
+global.numberowner = '6282127081926'
+global.instagram = 'https://instagram.com/dinsa6005'
+global.github = 'https://github.com/IkmalMtp2'
+global.dana = '082127081926'
+global.pulsa = '082127081926'
+global.gopay = '082127081926'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
-global.gc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
-global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://saweria.co/arullOfc'
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp 5.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 10.000\nMAKSIMAL 1 GRUP \n》 Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
+global.namebot = 'FreezeXBOT'
+global.gc = 'https://chat.whatsapp.com/I7DlpDmnWTy9itubLKIm5e'
+global.web = 'https://chat.whatsapp.com/I7DlpDmnWTy9itubLKIm5e' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://saweria.co/IkmalMtp2'
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 MINGGU Rp FREE\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 10.000\nMAKSIMAL 1 GRUP \n》 Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/4f9ca15015f0b60eb3b08.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/4f9ca15015f0b60eb3b08.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻ArullBotz𝙼𝙳'
+global.wm = '↻Ikmal'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 ArullOfc ×፝֟͜×'
-global.wm3 = 'ᯤ Arull𝙾𝙵𝙲'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 IKMAL ×፝֟͜×'
+global.wm3 = 'ᯤ BY IKMAL'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/57f6828f84e24c3c58dfe.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu Sedang Proses...'
-global.eror = '_*🚨 Server Bot Sedang Error*_'
+global.eror = '_*🚨 Terjadi Kesalahan!*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Sticker By'
-global.author = '@ArullOfc✵'
+global.packname = 'Stickers'
+global.author = 'You'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
@@ -89,7 +89,7 @@ global.APIKeys = { // APIKey Here
 }
 
 //=============『 RPG GAMES 』================== //
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 99 // The higher, The harder levelup
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
